@@ -27,7 +27,7 @@ public class DBConnection {
         "&characterEncoding=UTF-8";
 
     private static final String DB_USERNAME = "root";
-    private static final String DB_PASSWORD = "1234"; // ← change this
+    private static final String DB_PASSWORD = "XXXXXXX"; // 
 
     private static final String DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";
 
